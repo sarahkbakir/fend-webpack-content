@@ -1,0 +1,136 @@
+[33mcommit 3ed473c8c56a51204e3f2d0bc5afb29971b793d5[m[33m ([m[1;36mHEAD -> [m[1;32m0-initial-setup[m[33m)[m
+Author: Sarah Bakir <sarahbakir.k@gmail.com>
+Date:   Fri Aug 20 19:27:00 2021 +0200
+
+    webpack config-pahse 1
+
+[33mcommit 34bee1a91c751df34234560613e2d9a03254d2ad[m[33m ([m[1;31morigin/0-initial-setup[m[33m)[m
+Merge: d50ea31 742923a
+Author: ronny-udacity <42421205+ronny-udacity@users.noreply.github.com>
+Date:   Thu Apr 22 10:48:06 2021 -0700
+
+    Merge pull request #5 from dipanshuraz/patch-1
+    
+    correct spelling webpack
+
+[33mcommit d50ea3143aa99c2f787f8837e8691837106bf452[m
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Thu Nov 19 10:43:33 2020 +0530
+
+    Update index.html
+    
+    Added a missing backslash in the closing <section> tag
+
+[33mcommit fc1e158d5127ada9518deaf5939b4c03a89a6715[m
+Author: Sarai <saraiygould@gmail.com>
+Date:   Tue Apr 28 14:05:52 2020 -0700
+
+    index.js, not server.js
+
+[33mcommit eed2afdb6168aeb99e514addb54d9dfc0b09fa65[m
+Author: Sarai <saraiygould@gmail.com>
+Date:   Tue Apr 28 14:05:04 2020 -0700
+
+    Fixed 3000 to 8080
+
+[33mcommit 31c1d342089983e1ccd811a0314eeae2bb8e67ce[m
+Author: Sarai <saraiygould@gmail.com>
+Date:   Tue Apr 28 14:03:56 2020 -0700
+
+    Fixed log to say "port 8080".
+
+[33mcommit 20aa1c12de66a24bf02a576fee8721c487a1c268[m
+Author: Sarai <saraiygould@gmail.com>
+Date:   Tue Apr 28 13:56:10 2020 -0700
+
+    Updated branch information.
+
+[33mcommit 742923a4f43474f69af3f8317d29cb51bb312911[m
+Author: Deepanshu Prajapati <dipanshuraz2@gmail.com>
+Date:   Sun Apr 19 22:30:23 2020 +0530
+
+    correct spelling webpack
+
+[33mcommit 64dc542c62aea64941e7618df793b99b508c1796[m
+Author: alyssamhope <berkeleycole@users.noreply.github.com>
+Date:   Fri Jul 12 08:46:53 2019 -0700
+
+    Update README.md
+
+[33mcommit ed2b1cc4a68b026ff6659b1315bc5a9f0a25fb2e[m
+Author: berkeleycole <alyssamhope@gmail.com>
+Date:   Tue Jul 9 19:18:32 2019 -0700
+
+    all the extras for starting project
+
+[33mcommit a31665140c53a12b93faca5cdb0ed68d051b96f0[m
+Author: alyssamhope <berkeleycole@users.noreply.github.com>
+Date:   Tue Jul 9 17:51:02 2019 -0700
+
+    Rename src/server.js to src/server/index.js
+
+[33mcommit 224b8fe8d0127cfae630cac266698add0332eae9[m
+Author: alyssamhope <berkeleycole@users.noreply.github.com>
+Date:   Tue Jul 9 17:50:15 2019 -0700
+
+    Rename src/views/index.html to src/client/views/index.html
+
+[33mcommit 92be9f53b3ce172a731e01c190baba5318b05e4c[m
+Author: alyssamhope <berkeleycole@users.noreply.github.com>
+Date:   Tue Jul 9 17:49:33 2019 -0700
+
+    Rename src/public/index.js to src/client/js/interaction.js
+
+[33mcommit 516f6b4bbc6f6cdaf0c82d3bdabd95cd2bc6830c[m
+Author: alyssamhope <berkeleycole@users.noreply.github.com>
+Date:   Tue Jul 9 17:47:50 2019 -0700
+
+    Update README.md
+
+[33mcommit e8ca06cd0d8b8007ccf85a01b38c115740cef661[m
+Author: berkeleycole <alyssamhope@gmail.com>
+Date:   Mon Jul 8 20:37:48 2019 -0700
+
+    getting started readme
+
+[33mcommit 47e45af6990d01d1011945d5bb9c8490078e8fda[m
+Author: alyssamhope <berkeleycole@users.noreply.github.com>
+Date:   Sun Jul 7 13:56:59 2019 -0700
+
+    Update README.md
+
+[33mcommit 39d0412681df644c58953bf2b1e7e0dacdfb8c16[m
+Author: alyssamhope <berkeleycole@users.noreply.github.com>
+Date:   Sun Jul 7 13:56:33 2019 -0700
+
+    Update README.md
+
+[33mcommit bf95678ef81b39a394f576baa7922deee01ce298[m
+Author: alyssamhope <berkeleycole@users.noreply.github.com>
+Date:   Thu Jun 27 20:30:23 2019 -0700
+
+    Update README.md
+
+[33mcommit 5f46900fdeae1021331a067f82dbaf0e328b890d[m
+Author: alyssamhope <berkeleycole@users.noreply.github.com>
+Date:   Tue Jun 25 21:43:10 2019 -0700
+
+    Update README.md
+
+[33mcommit 7d496b682b697dc09de97236a62fe4e1d25e6af2[m
+Author: alyssamhope <berkeleycole@users.noreply.github.com>
+Date:   Tue Jun 25 21:39:50 2019 -0700
+
+    Update README.md
+
+[33mcommit fea3621abe7013150aaa0dad1bd2e77efc39d5e3[m
+Author: alyssamhope <berkeleycole@users.noreply.github.com>
+Date:   Tue Jun 25 21:32:27 2019 -0700
+
+    Delete package.json
+
+[33mcommit d06a73c8c7e228c0c520b0906186d29c6171b1ee[m
+Author: berkeleycole <alyssamhope@gmail.com>
+Date:   Sat Jun 15 13:52:00 2019 -0700
+
+    a basic express setup
